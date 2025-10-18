@@ -14,11 +14,12 @@ The analysis includes data cleaning, visualization, and a basic logistic regress
 ---
 
 ## Output
+
 (7043, 21)
 <class 'pandas.core.frame.DataFrame'>
 Index: 7032 entries, 0 to 7042
 Data columns (total 21 columns):
- #   Column            Non-Null Count  Dtype  
+    Column            Non-Null Count  Dtype  
 ---  ------            --------------  -----  
  0   customerID        7032 non-null   object 
  1   gender            7032 non-null   object 
